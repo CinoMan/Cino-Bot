@@ -1,0 +1,5 @@
+0 çorba
+1 salata
+2 hamburger
+3 pizza
+4 biftek
